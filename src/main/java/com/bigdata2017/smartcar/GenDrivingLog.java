@@ -14,7 +14,7 @@ import java.util.concurrent.Executors;
 public class GenDrivingLog {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Hello");
 		PrintWriter printWriter = null;
 
 		try {
